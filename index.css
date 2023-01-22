@@ -1,0 +1,50 @@
+body {
+    font-family: verdana;
+    padding: 100px;
+}
+
+.name {
+    font-size: 18.667px;
+    font-weight: bold;
+}
+
+.header {
+    position: relative;
+    text-align: center;
+}
+
+.em {
+    color: red;
+    display: inline;
+}
+
+.relevant-courses-next-line {
+    position: relative;
+    left: 170px;
+}
+
+.time-stamp-work-experience {
+    text-align: right;
+    position: relative;
+    bottom: 110px;
+}
+
+.time-stamp {
+    text-align: right;
+    position: relative;
+    bottom: 35px;
+}
+
+.work-experience-list {
+    display: block;
+}
+
+.section-title {
+    font-weight: bold;
+}
+
+li {
+    position: relative;
+    left: 50px;
+}
+
